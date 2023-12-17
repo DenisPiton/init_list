@@ -24,7 +24,7 @@ public:
 
         }
     }
-    string operator[](int i) {
+    string operator[](int i) { 
         return books[i];
     }
 
